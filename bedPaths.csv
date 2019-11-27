@@ -1,0 +1,5 @@
+assembly,bed.path,cpg.bed.path
+hg38,/Users/epigencare/bin/hg38.bed,/Users/epigencare/bin/hg38_CPGs.bed
+mm10,/Users/epigencare/Documents/genomes/mm10.bs.ucsc/mm10.bed,/Users/epigencare/Documents/genomes/mm10.bs.ucsc/mm10.CpGs.bed 
+rn6,/Users/epigencare/Documents/genomes/rn6.bs.ucsc/rn6.bed,/Users/epigencare/Documents/genomes/rn6.bs.ucsc/rn6.CPGs.bed
+bosTau9,/Users/epigencare/Documents/genomes/bosTau9.bs.ucsc/bosTau9.bed,/Users/epigencare/Documents/genomes/bosTau9.bs.ucsc/bosTau9.CPGs.bed
