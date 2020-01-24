@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# push from cbsugg02
+# push from cbsugg02 take 2
 
 if [ "$1" = "--help" ] || [  -z $1  ] || [  "$1" = "-h"  ] || [ "$1" = "help" ]; then
     echo ""
