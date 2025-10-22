@@ -154,6 +154,10 @@ myDiff <- calculateDiffMeth(meth)
 ##  Annotating DMB's 
 ##################################################################
 ##################################################################
+# 
+# 
+# gene.obj=readTranscriptFeatures(as.character(bedFile), remove.unusual = FALSE) for non standard genomes
+
 suppressPackageStartupMessages(library(genomation))
 gene.obj=readTranscriptFeatures(as.character(bedFile))
 
